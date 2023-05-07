@@ -5,4 +5,4 @@ README DE EXEMPLO
 
 lembrei do comando: git status
 
-COMO ASSIM?
+lembrei do comando: git commit
